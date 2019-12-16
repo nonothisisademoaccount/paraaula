@@ -1,0 +1,7 @@
+Imagine que este arquvio contem dados confidenciais que nao deveriam estar expostos.
+
+Exemplo:
+
+senha servidor AD estacio - senha123
+senha admin portal firewall: admin:admin
+senha admin portalcyber.estacio.br :  usuario: admin / senha: admin123
